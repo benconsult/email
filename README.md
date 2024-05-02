@@ -1,1 +1,3 @@
-# Email Integration with SendGrid and Ethereal
+# Email Implementation with SendGrid and Ethereal
+
+# Node.js, express.js
