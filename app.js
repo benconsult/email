@@ -14,7 +14,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.send('<h1>Email Project</h1><a href="/send">Send Email</a>');
 });
-
+//error
 app.use(notFoundMiddleware);
 app.use(errorHandlerMiddleware);
 
