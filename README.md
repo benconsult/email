@@ -1,1 +1,1 @@
-# email
+# Email Integration with SendGrid and Ethereal
