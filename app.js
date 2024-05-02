@@ -15,6 +15,7 @@ app.get('/', (req, res) => {
   res.send('<h1>Email Project</h1><a href="/send">Send Email</a>');
 });
 //error
+//setup
 app.use(notFoundMiddleware);
 app.use(errorHandlerMiddleware);
 
